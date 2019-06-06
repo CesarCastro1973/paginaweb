@@ -1,5 +1,7 @@
+
+
 .seccion-header{
-    background-image: url("blusky.png");
+    background-image: url("../praderasiete.png");
     height: 800px;
 }
 .contenido-header{
@@ -8,7 +10,7 @@
 
 }
 .seccion-header2{
-    background-color: grey;
+    background-image: url(../desierto.jpg);
     width: 100%;
     height: 600px;
 }
@@ -41,3 +43,4 @@
 .navbar{
     font-size: 1.5rem !important;
 }
+
