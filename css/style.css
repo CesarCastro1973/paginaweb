@@ -1,18 +1,25 @@
 
 
 .seccion-header{
-    background-image: url("../praderasiete.png");
-    height: 800px;
+    background-image: url("../desierto.jpg");
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover;
 }
 .contenido-header{
-    margin-top: 20%;
-    height: 400px;
+    margin-top: 5%;
+    height: 300px;
 
 }
 .seccion-header2{
-    background-image: url(../desierto.jpg);
+    background-image: url(../cecina.png);
     width: 100%;
     height: 600px;
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover;
 }
 .contenido-header2{
     margin-top: 20%;
@@ -20,26 +27,24 @@
 } 
 .seccion-header3{
     background-color: whitesmoke;
-    width: 100%;
-    height: 600px;
+    width: 800%;
+    height: 500px;
 
 }
 .contenido-header3{
-    margin-top: 20%;
+    margin-top: 10%;
     height: 100px;
 }
-
 .seccion-header4{
-    background-color: coral;
+    background-color:cornflowerblue;
     width: 100%;
-    height: 150px; 
+    height: 400px; 
 
 }
 .contenido-header4{
-    margin-top: 10%;
-    height: 50px;
+    margin-top: 20%;
+    height: 60px;
 }
-
 .navbar{
     font-size: 1.5rem !important;
 }
