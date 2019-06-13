@@ -1,25 +1,22 @@
 
 
 .seccion-header{
-    background-image: url("../desierto.jpg");
+   
     width: 100%;
-    height: 600px;
+    height: 720px;
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover;
 }
 .contenido-header{
     margin-top: 5%;
-    height: 300px;
+    height: 200px;
 
 }
 .seccion-header2{
-    background-image: url(../cecina.png);
+   
     width: 100%;
-    height: 600px;
-    background-repeat: no-repeat;
-    background-position: center; /* Center the image */
-    background-size: cover;
+    height: 720px;
 }
 .contenido-header2{
     margin-top: 20%;
@@ -27,18 +24,18 @@
 } 
 .seccion-header3{
     background-color: whitesmoke;
-    width: 100%;
-    height: 500px;
+    width: 900%;
+    height: 900px;
 
 }
 .contenido-header3{
     margin-top: 10%;
-    height: 100px;
+    height: 400px;
 }
 .seccion-header4{
     background-color:cornflowerblue;
     width: 100%;
-    height: 600px; 
+    height: 800px; 
 
 }
 .contenido-header4{
@@ -58,7 +55,7 @@
 }
 footer{
     width: 100%;
-    height: 250px;
+    height: 100px;
 }
 i{
     font-size: 60px;
@@ -69,4 +66,25 @@ i.fa-whatsapp{
 .titulo-footer{
     margin-bottom: 40px;
     padding-top: 25px;
+}
+.img-carne{
+    width: 300px !important;
+    height: auto;
+}
+
+#marca{
+    font-size:20px;
+}
+
+#slogan{
+    font-size: 40px;
+}
+
+#producto{
+    padding-top: 80px;
+}
+
+.logo-cecina{
+    width: 1500px;
+    height: auto;
 }
